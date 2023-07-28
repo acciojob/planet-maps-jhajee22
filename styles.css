@@ -1,14 +1,14 @@
 
 /* Your CSS Code here. */
 img {
-  border: 1px solid #ccc;
+  border: 8px solid #ccc;
   display: block; /* Ensures inline elements like <img> are treated as block elements */
   margin: 0 auto; /* Center the image */
   max-width: 100%; /* Make sure the image doesn't exceed its container's width */
 }
 
-/* Style the areas (optional) */
+
 area {
-  outline: 2px solid red; /* Add a red border around the areas */
-  cursor: pointer; /* Show a pointer cursor when hovering over the areas */
+  outline: 8px solid red; 
+  cursor: pointer;
 }
